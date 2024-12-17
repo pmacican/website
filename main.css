@@ -23,6 +23,7 @@ body {
 }
 
 .project {
+    height: auto;
     width: 1000px;
     margin:auto;
     align-content:center;
