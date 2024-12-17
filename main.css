@@ -23,9 +23,8 @@ body {
 }
 
 .project {
-    width:500px;
+    width: 1000px;
     margin:auto;
-    padding: 2px;
     align-content:center;
     text-align:center;
     border-color:black;
